@@ -1,2 +1,2 @@
 # afec-xtbg-2021
-This is a tutorial for teaching pursoes.
+This is a tutorial for teaching purposes.
