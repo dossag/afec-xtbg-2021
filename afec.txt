@@ -1,3 +1,4 @@
 we are just playing around
 git commit -m "created file afec.txt"
 Mkala is interested in commiting
+I taught him how to do it in R studio by clicking.
