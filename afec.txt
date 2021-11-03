@@ -1,1 +1,2 @@
 we are just playing around
+git commit -m "created file afec.txt"
